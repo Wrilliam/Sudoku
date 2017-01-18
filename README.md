@@ -11,4 +11,4 @@ rules being adapted to the board size.
 
 Given the fact I was a rookie when this source code was made, it's pretty basic
 in some ways, as it brings some of the most core elements of object-oriented
-programming.
+programming. The code was written in Java using the Eclipse IDE.
