@@ -1,4 +1,5 @@
 # Sudoku
+
 My very first big project: a Sudoku game in Java.
 
 This game was created in 2012, as part of my Programming Techniques for
@@ -13,4 +14,6 @@ Given the fact I was a rookie when this source code was made, it's pretty basic
 in some ways, as it brings some of the most core elements of object-oriented
 programming. The code was written in Java using the Eclipse IDE.
 
-Note: the "settings" folder must be renamed to ".settings" before being used.
+UPDATE: the project was brought back in December 2020, and its source code was
+overhauled in order to correct any errors and warnings. It was also exported to
+a runnable .jar file, which was made using Java 1.8.
